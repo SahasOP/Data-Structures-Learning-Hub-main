@@ -59,7 +59,7 @@ restart_quiz.onclick = ()=>{
 
 // if quitQuiz button clicked
 quit_quiz.onclick = ()=>{
-    window.location.href = '../index.html';
+    window.location.href = '..../index.html';
 }
 
 const next_btn = document.querySelector("footer .next_btn");
